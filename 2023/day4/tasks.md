@@ -1,23 +1,19 @@
-# Day 4 Task: Basic Git Commands
+# Day 4 Task: Learn Basic Linux Shell Scripting as a DevOps Engineer.
 
-What is GIT?
+What is Linux Shell Scripting?
 
-Git is the most commonly used version control system. Git tracks the changes you make to files, so you have a record of what has been done, and you can revert to specific versions should you ever need to. Git also makes collaboration easier, allowing changes by multiple people to all be merged into one source. 
+A shell script is a computer program designed to be run by a linux shell, a command-line interpreter. The various dialects of shell scripts are considered to be scripting languages. Typical operations performed by shell scripts include file manipulation, program execution, and printing text.
 
-Task: What is the **Basic Git Commands to**
+**Table Of Content**
  
-- Tell Git who you are.
-- Create a new local repository.
-- Create a working copy of a local repository.
-- Add one or more files.
-- Commit changes to head (but not yet to the remote repository).
-- Commit any files you've added with git add, and also commit any files you've changed since then.
-- Send changes to the master branch of your remote repository.
-- List the files you've changed and those you still need to add or commit.
-- If you haven't connected your local repository to a remote server, add the server to be able to push to it.
-- List all currently configured remote repositories.
-- Create a new branch and switch to it.
-- Switch from one branch to another.
-- List all the branches in your repo, and also tell you what branch you're currently in.
+- Shell Scripting for DevOps.
+- How to Get Started With Shell Scripting?
+- What are the Best Free Shell Scripting Learning Resources?
+- Real-world Shell Scripting Use Cases.
+- Shell Scripting Real Time Scenarios
+- Shell Scripting Languages
+- Shell Scripting DevOps Interview Questions.
 
-Article Reference: [Click here to read basic Git commands](https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html)
+Article Reference: [Click here to read basic Linux Shell Scripting](https://devopscube.com/linux-shell-scripting-for-devops/)
+
+YouTube Vedio: [EASIEST Shell Scripting Tutorial for DevOps Engineers](https://www.youtube.com/watch?v=_-D6gkRj7xc&list=PLlfy9GnSVerQr-Se9JRE_tZJk3OUoHCkh&index=3)
